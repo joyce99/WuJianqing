@@ -1,6 +1,6 @@
 # MREA
 [Multi-Relation Aware method for Cross-language
-entity alignment with Directional Line Graphs](https://github.com/StephanieWyt/RDGCN)
+entity alignment with Directional Line Graphs](https://github.com/joyce99/WuJianqing/tree/main/MREA-master)
 
 ## Datasets
 Please download the datasets [here](https://github.com/StephanieWyt/RDGCN) and extract them into root directory.
